@@ -12,3 +12,9 @@ What are some situations when branches would be helpful in keeping your history 
 
 branches will be very helpful in conditions where, i am working on a separate feature and i can work separeteley and merge with master
 after some period..
+
+How do the diagrams help you visualize the branch structure?
+
+The diagrams are like tress structure. it makes it easy and 
+reachability is only possible if i have proper branches.
+s 
