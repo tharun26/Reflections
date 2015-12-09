@@ -1,0 +1,14 @@
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+staging area is a place between working directory and repositroy. it is a place where we can keep and rethink and remove it .
+once we confirm that these are the things needed to be into repo. we can commit. it is neat way to think in this manner.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+for a logical change gorup all the dependent files and put them in stage one by one.
+then put a commit from staging to repo.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+branches will be very helpful in conditions where, i am working on a separate feature and i can work separeteley and merge with master
+after some period..
