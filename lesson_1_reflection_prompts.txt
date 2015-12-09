@@ -37,3 +37,8 @@ could break something?
 Now that you have your workspace set up, what do you want to try using Git for?
 
     i want to creat a project and commit and roll back stuff 
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+staging area is a place between working directory and repositroy. it is a place where we can keep and rethink and remove it .
+once we confirm that these are the things needed to be into repo. we can commit. it is neat way to think in this manner.
